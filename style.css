@@ -1,0 +1,57 @@
+body{
+  border: 2px solid #8A7E0F;
+  margin: 15px 378px 478px ;
+  height: 474px;
+  width: 378px;
+  font-family: 'Fredoka', 'Open Sans';
+  font-size: 13px;
+}
+
+p{
+  margin-bottom: 30px;
+}
+
+
+header {
+  padding: 8px;
+  text-align: center;
+}
+
+h1{
+  text-decoration: underline;
+  text-decoration-color: #8A7E0F;
+  text-underline-offset:10px
+}
+
+#comidas{
+  
+  display: flex;
+}
+
+.pratos{
+ margin-left: 8px;
+}
+
+.precoComidas{
+  margin-left: 170px;
+}
+
+
+#bebidas {
+  margin-left: 8px;
+  text-align: center;
+  display: flex;
+}
+
+.liquidos{
+  text-align: left;
+}
+
+
+.precos{
+margin-left: 200px;
+}
+
+h3{
+  text-align: center;
+}
